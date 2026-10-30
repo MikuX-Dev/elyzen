@@ -31,7 +31,7 @@
     "embla-carousel-react": "^8.1.5",
     "fastest-levenshtein": "^1.0.16",
     "file-saver": "^2.0.5",
-    "framer-motion": "^11.2.6",
+    "framer-motion": "^14.7.1",
     "ioredis": "^5.4.1",
     "ky": "^1.4.0",
     "locomotive-scroll": "^4.1.4",
